@@ -1,6 +1,6 @@
 # Roll Dice App
 
-A new Flutter project.
+My First Flutter project.
 
 ## Information
 
