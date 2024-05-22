@@ -1,10 +1,14 @@
-# basic
+# Roll Dice App
 
 A new Flutter project.
 
-## Getting Started
+## Information
 
-This project is a starting point for a Flutter application.
+This project is based on Flutter Dart.
+This app allows you to roll a dice and get the results randomly.
+It has decent UI and works on iOS and Android.
+
+Hope you like this.
 
 A few resources to get you started if this is your first Flutter project:
 
